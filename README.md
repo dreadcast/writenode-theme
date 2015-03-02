@@ -1,2 +1,2 @@
 # writenode-theme
-Default thme for writenode
+Default theme for writenode
